@@ -1,0 +1,26 @@
+{
+  "name": "angular-seed",
+  "version": "0.0.0",
+  "description": "This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.\r You can use it to quickly bootstrap your angular webapp projects and dev environment for these\r projects.",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angular/angular-seed.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "c7ea21dd35fdd43439843eb7860e0cf243e92f0a",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-usemin": "~0.1.12",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.4.1"
+  }
+}
